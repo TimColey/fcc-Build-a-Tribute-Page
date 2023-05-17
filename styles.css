@@ -1,0 +1,25 @@
+main {
+  background-color: #f0e5e5;
+  padding: 10px
+}
+
+h1 {
+  text-align: center;
+}
+
+figure {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  margin: 0px 10px 0px 10px;
+  display: block;
+}
+
+.bold {
+  font-weight: 800;
+}
